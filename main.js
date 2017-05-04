@@ -1,1 +1,1 @@
-const zoombie = require('zoombie')
+const Browser = require('zombie')
